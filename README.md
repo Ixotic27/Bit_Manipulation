@@ -1,5 +1,6 @@
-# Bit_Manupulation: 
-Bit Manipulation in Java This repository contains Java programs demonstrating various bit manipulation techniques, which are essential for optimizing algorithms and understanding low-level operations in programming.
+# Bit Manupulation: 
+Bit Manipulation in Java:
+This repository contains Java programs demonstrating various bit manipulation techniques, which are essential for optimizing algorithms and understanding low-level operations in programming.
 Features & Functions Covered:
 
 ✅ Get the ith bit of a number
